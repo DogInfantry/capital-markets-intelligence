@@ -1,0 +1,32 @@
+country,iso,bond_type,maturity_years,coupon_pct,issue_size_usd_bn,issue_date,currency,rating_sp,yield_at_issue_pct,region,spread_over_ust_bps,is_usd_denominated,investment_grade
+United States,US,Treasury Note,10,4.25,42.0,2024-11-15,USD,AA+,4.28,North America,3.0,True,True
+United States,US,Treasury Bond,30,4.625,25.0,2024-11-15,USD,AA+,4.65,North America,40.0,True,True
+United States,US,Treasury Note,2,4.375,69.0,2024-12-02,USD,AA+,4.21,North America,0.0,True,True
+United States,US,Treasury Note,5,4.125,70.0,2025-01-15,USD,AA+,4.38,North America,13.0,True,True
+United Kingdom,GB,Gilt,10,4.0,5.8,2024-10-22,GBP,AA,4.12,Europe,0.0,False,True
+United Kingdom,GB,Gilt,30,4.375,4.2,2024-11-19,GBP,AA,4.68,Europe,43.0,False,True
+Germany,DE,Bund,10,2.5,5.5,2024-09-11,EUR,AAA,2.18,Europe,0.0,False,True
+Germany,DE,Bund,30,2.6,2.2,2024-10-16,EUR,AAA,2.55,Europe,0.0,False,True
+Japan,JP,JGB,10,0.8,17.5,2024-12-03,JPY,A+,1.05,Asia-Pacific,0.0,False,True
+Japan,JP,JGB,20,1.7,7.3,2024-11-21,JPY,A+,1.88,Asia-Pacific,0.0,False,True
+France,FR,OAT,10,3.0,8.8,2024-10-03,EUR,AA-,2.92,Europe,0.0,False,True
+Italy,IT,BTP,10,3.85,7.5,2024-09-30,EUR,BBB,3.52,Europe,0.0,False,True
+Italy,IT,BTP Valore (Retail),6,3.35,11.2,2024-05-20,EUR,BBB,3.4,Europe,0.0,False,True
+Australia,AU,ACGB,10,4.25,5.0,2024-10-09,AUD,AAA,4.1,Asia-Pacific,0.0,False,True
+Canada,CA,Government Bond,10,3.5,4.8,2024-09-04,CAD,AAA,3.15,North America,0.0,False,True
+India,IN,G-Sec,10,7.18,2.4,2024-10-11,INR,BBB-,6.85,Asia-Pacific,260.0,False,True
+India,IN,G-Sec (Green Bond),10,7.1,1.2,2024-10-22,INR,BBB-,6.92,Asia-Pacific,267.0,False,True
+Brazil,BR,NTN-F,10,10.0,1.5,2024-08-15,BRL,BB,11.65,Latin America,740.0,False,False
+Brazil,BR,Global Bond (USD),10,6.125,2.0,2024-12-04,USD,BB,6.35,Latin America,210.0,True,False
+Mexico,MX,Mbono,10,8.5,1.8,2024-09-26,MXN,BBB,9.8,Latin America,555.0,False,True
+Mexico,MX,Global Bond (USD),12,5.4,2.5,2025-01-08,USD,BBB,5.55,Latin America,130.0,True,True
+South Africa,ZA,Government Bond (R2037),13,8.5,0.8,2024-08-27,ZAR,BB-,10.8,Africa,655.0,False,False
+Turkey,TR,Government Bond,5,25.0,1.1,2024-09-18,TRY,B+,28.5,Europe/MENA,2425.0,False,False
+Turkey,TR,Eurobond (USD),10,6.5,3.0,2025-01-14,USD,B+,6.75,Europe/MENA,250.0,True,False
+Saudi Arabia,SA,Sukuk (Islamic Bond),10,4.75,5.0,2024-10-07,USD,A,4.82,MENA,57.0,True,True
+Saudi Arabia,SA,Green Bond,10,4.65,3.0,2025-02-12,USD,A,4.72,MENA,47.0,True,True
+China,CN,CGB,10,2.12,5.5,2024-11-20,CNY,A+,2.08,Asia-Pacific,0.0,False,True
+China,CN,CGB (Ultra-Long),30,2.65,4.5,2024-11-15,CNY,A+,2.58,Asia-Pacific,0.0,False,True
+Indonesia,ID,Global Bond (USD),10,4.95,2.0,2025-01-07,USD,BBB,5.1,Asia-Pacific,85.0,True,True
+Poland,PL,Euro Bond,10,4.15,2.8,2024-09-10,EUR,A-,4.22,Europe,0.0,False,True
+Nigeria,NG,Eurobond (USD),10,9.125,0.9,2024-12-02,USD,B-,9.85,Africa,560.0,True,False
