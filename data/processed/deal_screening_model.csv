@@ -1,0 +1,21 @@
+acquirer,target,deal_value_usd_bn,status,sector,deal_type,cross_border,completed,log_deal_value,is_cross_border,is_tech_sector,is_healthcare,is_energy,is_financial,is_take_private,is_cash_deal,is_mega_deal,completion_score,completion_probability_pct
+Capital One Financial,Discover Financial Services,35.3,Pending Regulatory,Financial Services,Stock-for-Stock Merger,False,0,3.563882963939251,0,0,0,0,1,0,0,1,-0.6388702378758948,38.6
+Mars Inc,Kellanova,35.9,Completed,Consumer Staples,Cash Acquisition,False,1,3.580737295494233,0,0,0,0,0,0,1,1,-0.6828640981971705,35.6
+Synopsys,Ansys,35.0,Completed,Technology (EDA/Simulation),Cash + Stock,False,1,3.5553480614894135,0,1,0,0,0,0,1,1,-0.837512480179686,25.0
+Diamondback Energy,Endeavor Energy Resources,26.0,Completed,Energy (E&P),Cash + Stock,False,1,3.258096538021482,0,0,0,1,0,0,1,0,-0.222238702071159,67.1
+ConocoPhillips,Marathon Oil,22.5,Completed,Energy (E&P),Stock-for-Stock,False,1,3.1135153092103742,0,0,0,1,0,0,0,0,-0.10290828857564263,75.3
+Hewlett Packard Enterprise,Juniper Networks,14.0,Blocked (DOJ),Technology (Networking),Cash Acquisition,False,0,2.6390573296152584,0,1,0,0,0,0,1,0,-0.5272252616263335,46.2
+Johnson & Johnson,Intra-Cellular Therapies,14.6,Completed,Pharmaceuticals,Cash Acquisition,False,1,2.681021528714291,0,0,1,0,0,0,1,0,-0.12424266363578623,73.8
+Alphabet (Google),Wiz,32.0,Pending Regulatory,Technology (Cybersecurity),Cash Acquisition,True,0,3.4657359027997265,1,1,0,0,0,0,1,1,-1.2035064582313726,0.0
+Cisco Systems,Splunk,28.0,Completed,Technology (Observability),Cash Acquisition,False,1,3.332204510175204,0,1,0,0,0,0,1,0,-0.596886553272608,41.5
+AbbVie,ImmunoGen,10.1,Completed,Pharmaceuticals (Oncology),Cash Acquisition,False,1,2.312535423847214,0,0,1,0,0,0,1,0,-0.087209810096645,76.3
+Nippon Steel,United States Steel Corp,14.9,Blocked (CFIUS),Materials (Steel),Cash Acquisition,True,0,2.7013612129514133,1,0,0,0,0,0,1,0,-0.751286801901617,30.9
+BlackRock,Global Infrastructure Partners,12.5,Completed,Financial Services (Alt Assets),Cash + Stock,False,1,2.5257286443082556,0,0,0,0,1,0,1,0,-0.4211357287529797,53.5
+Exxon Mobil,Pioneer Natural Resources,64.5,Completed,Energy (E&P),Stock-for-Stock,False,1,4.1666652238017265,0,0,0,1,0,0,0,1,-0.4269498549920736,53.1
+Broadcom,VMware,69.0,Completed,Technology (Virtualization),Cash + Stock,False,1,4.23410650459726,0,1,0,0,0,0,1,1,-0.9057277037120246,20.4
+Danaher,Abcam,5.7,Completed,Life Sciences,Cash Acquisition,True,1,1.7404661748405046,1,0,0,0,0,0,1,0,-0.6547168505714707,37.5
+Silver Lake / Canada Pension,Endeavor Group Holdings,13.0,Completed,Media & Entertainment,Take-Private (LBO),False,1,2.5649493574615367,0,0,0,0,0,1,0,0,-0.0077774104248844456,81.8
+GTCR,Worldpay (from FIS),18.5,Completed,Financial Technology (Payments),Take-Private (LBO),False,1,2.917770732084279,0,1,0,0,1,1,0,0,-0.26293595857447005,64.3
+Novo Holdings,Catalent,16.5,Completed,Healthcare (CDMO),Cash Acquisition,True,1,2.803360380906535,1,0,1,0,0,0,1,0,-0.5115377182811067,47.3
+Bain Capital,Envestnet,4.5,Completed,Financial Technology (Wealth),Take-Private (LBO),False,1,1.5040773967762742,0,1,0,0,1,1,0,0,-0.12085977837601558,74.0
+Veritas Capital / Evergreen,Cotiviti (from Verscend),11.0,Completed,Healthcare Analytics,Sponsor-to-Sponsor LBO,False,1,2.3978952727983707,0,0,1,0,0,1,0,0,0.25901152508376374,100.0

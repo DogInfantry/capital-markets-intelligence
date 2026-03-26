@@ -1,0 +1,26 @@
+company,ticker,ipo_date,sector,country,offer_price,first_day_close,current_price,deal_size_usd,lead_underwriter,first_day_return_pct,total_return_pct,market_return_on_date_pct,abnormal_return_pct,money_left_on_table_usd,pricing_assessment
+Lineage Inc,LINE,2024-07-26,Industrials (Cold Storage REIT),US,78.0,82.45,71.2,4430400000.0,Goldman Sachs / Morgan Stanley,5.71,-8.72,,,252760000.0,Moderately Underpriced
+OneStream Inc,OS,2024-07-25,Technology (Enterprise Software),US,20.0,25.16,28.5,500000000.0,Morgan Stanley / JP Morgan,25.8,42.5,,,129000000.0,Significantly Underpriced
+Ardent Health Partners,ARDT,2024-07-18,Healthcare,US,16.0,17.25,18.9,177600000.0,BofA Securities / Goldman Sachs,7.81,18.12,,,13875000.0,Moderately Underpriced
+Bowhead Specialty Holdings,BOW,2024-05-23,Financial Services (Insurance),US,27.0,30.5,35.75,167400000.0,JP Morgan / Goldman Sachs,12.96,32.41,,,21700000.0,Moderately Underpriced
+Ibotta Inc,IBTA,2024-04-18,Technology (AdTech),US,88.0,117.3,72.8,572000000.0,Goldman Sachs,33.3,-17.27,,,190450000.0,Significantly Underpriced
+Viking Holdings Ltd,VIK,2024-05-01,Consumer Discretionary (Cruise),Bermuda,24.0,28.77,33.4,1536000000.0,BofA / Barclays / JP Morgan,19.88,39.17,,,305280000.0,Moderately Underpriced
+Reddit Inc,RDDT,2024-03-21,Technology (Social Media),US,34.0,50.44,145.2,748000000.0,Morgan Stanley / Goldman Sachs,48.35,327.06,,,361680000.0,Significantly Underpriced
+Astera Labs Inc,ALAB,2024-03-20,Technology (Semiconductors),US,36.0,72.67,58.9,781200000.0,Morgan Stanley,101.86,63.61,,,795739000.0,Severely Underpriced
+BrightSpring Health,BTSG,2024-01-26,Healthcare Services,US,13.0,11.41,10.85,419900000.0,Goldman Sachs / JP Morgan,-12.23,-16.54,,,-51357000.0,Moderately Overpriced
+Amer Sports Inc,AS,2024-02-01,Consumer Discretionary (Sports),Finland,13.0,14.96,22.1,1365000000.0,Goldman Sachs / JP Morgan / Morgan Stanley,15.08,70.0,,,205800000.0,Moderately Underpriced
+Rubrik Inc,RBRK,2024-04-25,Technology (Cybersecurity),US,32.0,38.27,45.6,736000000.0,Goldman Sachs / Barclays,19.59,42.5,,,144210000.0,Moderately Underpriced
+Tempus AI Inc,TEM,2024-06-14,Healthcare / AI,US,37.0,40.8,38.25,410700000.0,Morgan Stanley / Goldman Sachs,10.27,3.38,,,42180000.0,Moderately Underpriced
+Loar Holdings Inc,LOAR,2024-06-27,Industrials (Aerospace),US,28.0,34.85,62.3,358400000.0,JP Morgan / Morgan Stanley,24.46,122.5,,,87680000.0,Significantly Underpriced
+Waystar Holding,WAY,2024-06-07,Healthcare Technology,US,21.5,27.56,30.1,741750000.0,BofA / JP Morgan / Barclays,28.19,40.0,,,209070000.0,Significantly Underpriced
+Douglas Elliman (re-IPO),DOUG,2024-01-05,Real Estate Services,US,3.2,2.95,2.1,25600000.0,Cantor Fitzgerald,-7.81,-34.38,,,-2000000.0,Moderately Overpriced
+Hyundai Motor India,HMIL,2024-10-22,Automotive,India,1960.0,1844.6,1780.0,278701612000.0,Kotak / Citi / HSBC / JP Morgan,-5.89,-9.18,,,-16409268380.0,Moderately Overpriced
+Swiggy Ltd,SWIGGY,2024-11-13,Technology (Food Delivery),India,390.0,412.75,385.2,43893213000.0,Kotak / BofA / Citi / Jefferies,5.83,-1.23,,,2560437425.0,Moderately Underpriced
+NTPC Green Energy,NTPCGREEN,2024-11-27,Utilities (Renewable Energy),India,108.0,111.5,105.4,10000044000.0,IDBI Capital / HDFC Bank / IIFL,3.24,-2.41,,,324075500.0,Fairly Priced
+Talabat Holding,TALABAT,2024-12-10,Technology (Food Delivery),UAE,1.6,1.65,1.58,5589177600.0,Goldman Sachs / Morgan Stanley,3.12,-1.25,,,174661800.0,Fairly Priced
+DigiCo REIT,DGC,2024-12-12,Real Estate (Data Centers),Australia,5.0,5.15,4.88,3750000000.0,Macquarie / UBS / JP Morgan,3.0,-2.4,,,112500000.0,Fairly Priced
+Hyundai Motor India (additional allotment),HMIL,2024-10-22,Automotive,India,1960.0,1842.0,1780.0,33687500000.0,Kotak / Citi / HSBC / JP Morgan,-6.02,-9.18,,,-2028125000.0,Moderately Overpriced
+Cerebras Systems,CBRS,2025-03-15,Technology (AI Chips),US,42.0,58.3,55.1,840000000.0,Morgan Stanley / Citigroup,38.81,31.19,,,326000000.0,Significantly Underpriced
+Klarna Bank AB,KLAR,2025-03-10,Financial Technology (BNPL),Sweden,55.0,62.4,60.8,2200000000.0,Goldman Sachs / JP Morgan / Morgan Stanley,13.45,10.55,,,296000000.0,Moderately Underpriced
+CoreWeave Inc,CRWV,2025-03-28,Technology (Cloud/GPU),US,40.0,39.0,38.5,1960000000.0,Morgan Stanley / Goldman Sachs,-2.5,-3.75,,,-49000000.0,Fairly Priced
+Venture Global LNG,VG,2025-01-24,Energy (LNG),US,25.0,23.1,12.8,1750000000.0,JP Morgan / Goldman Sachs / BofA,-7.6,-48.8,,,-133000000.0,Moderately Overpriced
