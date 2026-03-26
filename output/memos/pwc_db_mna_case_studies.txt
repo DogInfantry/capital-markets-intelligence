@@ -1,0 +1,216 @@
+======================================================================
+PwC DEALS STRATEGY / DEUTSCHE BANK ADVISORY
+M&A Strategic Rationale: Case Studies & Thematic Analysis
+Report Date: March 26, 2026
+======================================================================
+
+I. DEAL UNIVERSE OVERVIEW
+----------------------------------------------------------------------
+
+  Deals Analyzed:     20
+  Total Deal Value:   $483.5B
+  Avg Deal Size:      $24.2B
+  Cross-Border:       4
+
+  Size Distribution:
+    Mid-Cap ($10-20B)             :  9 deals ($125.1B)
+    Large-Cap ($20-50B)           :  7 deals ($214.7B)
+    Mega-Deal (>$50B)             :  2 deals ($133.5B)
+    Core Middle Market (<$10B)    :  2 deals ($10.2B)
+
+II. TOP 5 DEALS — DEEP DIVE
+----------------------------------------------------------------------
+
+  ============================================================
+  DEAL #1: Capital One Financial / Discover Financial Services
+  ============================================================
+  Deal Value:        $35.3B
+  Announced:         2024-02-19
+  Deal Type:         Stock-for-Stock Merger
+  Sector:            Financial Services
+  Size Tier:         Large-Cap ($20-50B)
+  Status:            Pending Regulatory
+  Cross-Border:      No
+  Relevance Score:   10/10
+
+  Strategic Rationale:
+    Scale in payments network; combined credit card portfolio
+
+  Value Creation Drivers:
+    * Cost synergies
+    * Revenue synergies
+
+  Risk Assessment:
+    ! Size-related execution complexity
+    ! Regulatory approval uncertainty
+
+  ============================================================
+  DEAL #2: Alphabet (Google) / Wiz
+  ============================================================
+  Deal Value:        $32.0B
+  Announced:         2025-03-18
+  Deal Type:         Cash Acquisition
+  Sector:            Technology (Cybersecurity)
+  Size Tier:         Large-Cap ($20-50B)
+  Status:            Pending Regulatory
+  Cross-Border:      Yes
+  Relevance Score:   10/10
+
+  Strategic Rationale:
+    Cloud security leadership; multi-cloud posture management
+
+  Value Creation Drivers:
+    * Strategic repositioning
+
+  Risk Assessment:
+    ! Cross-border regulatory risk (CFIUS/antitrust)
+    ! Size-related execution complexity
+    ! Regulatory approval uncertainty
+    ! Tech integration risk
+    ! talent retention
+
+  ============================================================
+  DEAL #3: Nippon Steel / United States Steel Corp
+  ============================================================
+  Deal Value:        $14.9B
+  Announced:         2023-12-18
+  Deal Type:         Cash Acquisition
+  Sector:            Materials (Steel)
+  Size Tier:         Mid-Cap ($10-20B)
+  Status:            Blocked (CFIUS)
+  Cross-Border:      Yes
+  Relevance Score:   8/10
+
+  Strategic Rationale:
+    Global steel capacity; US market access
+
+  Value Creation Drivers:
+    * Market consolidation
+
+  Risk Assessment:
+    ! Cross-border regulatory risk (CFIUS/antitrust)
+    ! DEAL BLOCKED — regulatory intervention
+
+  ============================================================
+  DEAL #4: Mars Inc / Kellanova
+  ============================================================
+  Deal Value:        $35.9B
+  Announced:         2024-08-14
+  Deal Type:         Cash Acquisition
+  Sector:            Consumer Staples
+  Size Tier:         Large-Cap ($20-50B)
+  Status:            Completed
+  Cross-Border:      No
+  Relevance Score:   7/10
+
+  Strategic Rationale:
+    Snacking portfolio expansion; global distribution synergies
+
+  Value Creation Drivers:
+    * Cost synergies
+    * Revenue synergies
+
+  Risk Assessment:
+    ! Size-related execution complexity
+
+  ============================================================
+  DEAL #5: Synopsys / Ansys
+  ============================================================
+  Deal Value:        $35.0B
+  Announced:         2024-01-16
+  Deal Type:         Cash + Stock
+  Sector:            Technology (EDA/Simulation)
+  Size Tier:         Large-Cap ($20-50B)
+  Status:            Completed
+  Cross-Border:      No
+  Relevance Score:   7/10
+
+  Strategic Rationale:
+    Silicon-to-systems design platform; simulation capabilities
+
+  Value Creation Drivers:
+    * Platform/capability expansion
+
+  Risk Assessment:
+    ! Size-related execution complexity
+    ! Tech integration risk
+    ! talent retention
+
+III. THEMATIC ANALYSIS
+----------------------------------------------------------------------
+
+  A. Deal Structure Trends
+
+    Cash Acquisition              :  9 deals (avg $19.1B)
+    Cash + Stock                  :  4 deals (avg $35.6B)
+    Take-Private (LBO)            :  3 deals (avg $12.0B)
+    Stock-for-Stock               :  2 deals (avg $43.5B)
+    Stock-for-Stock Merger        :  1 deals (avg $35.3B)
+    Sponsor-to-Sponsor LBO        :  1 deals (avg $11.0B)
+
+  B. Sector Concentration
+
+    Energy (E&P)                            : $113.0B (23.4%, cum: 23.4%)
+    Technology (Virtualization)             : $ 69.0B (14.3%, cum: 37.6%)
+    Consumer Staples                        : $ 35.9B ( 7.4%, cum: 45.1%)
+    Financial Services                      : $ 35.3B ( 7.3%, cum: 52.4%)
+    Technology (EDA/Simulation)             : $ 35.0B ( 7.2%, cum: 59.6%)
+
+  C. Regulatory Landscape
+
+  The regulatory environment has become a material factor in deal
+  completion. Our database shows:
+    Completed:          16 (80%)
+    Pending Regulatory: 2 (10%)
+    Blocked:            2 (10%)
+
+  Blocked Deals:
+    - Hewlett Packard Enterprise / Juniper Networks (Blocked (DOJ))
+      Value: $14.0B | Rationale: AI-driven networking; campus and data center portfolio
+    - Nippon Steel / United States Steel Corp (Blocked (CFIUS))
+      Value: $14.9B | Rationale: Global steel capacity; US market access
+
+  D. Cross-Border Deal Dynamics
+
+    Cross-border deals: 4 (20% of universe)
+    Avg deal size: $17.3B vs $24.2B overall
+
+    - Alphabet (Google) (US) -> Wiz (Israel)
+      $32.0B | Pending Regulatory
+    - Nippon Steel (Japan) -> United States Steel Corp (US)
+      $14.9B | Blocked (CFIUS)
+    - Danaher (US) -> Abcam (UK)
+      $5.7B | Completed
+    - Novo Holdings (Denmark) -> Catalent (US)
+      $16.5B | Completed
+
+  E. Value Creation Framework
+
+  Most Common Value Drivers:
+    Platform/capability expansion :  6 deals (30%)
+    Market consolidation          :  5 deals (25%)
+    Revenue synergies             :  5 deals (25%)
+    Strategic repositioning       :  5 deals (25%)
+    Cost synergies                :  4 deals (20%)
+
+IV. STRATEGIC RECOMMENDATIONS
+----------------------------------------------------------------------
+
+  1. Energy sector consolidation continues to drive mega-deal activity.
+     Expect further Permian Basin and shale asset consolidation in 2025.
+
+  2. Technology M&A faces heightened regulatory scrutiny. AI/cybersecurity
+     deals draw particular attention from DOJ and international regulators.
+
+  3. PE-backed take-privates remain a viable exit path, particularly in
+     fintech and healthcare where public market valuations are compressed.
+
+  4. Cross-border deals require extended timeline assumptions. CFIUS review
+     and national security considerations are no longer edge cases.
+
+  5. Healthcare/pharma M&A is driven by pipeline acquisition rather than
+     operational synergies — focus due diligence on clinical risk.
+
+======================================================================
+CONFIDENTIAL | PwC Deals Strategy / Deutsche Bank Advisory
+======================================================================

@@ -1,0 +1,109 @@
+======================================================================
+D.E. SHAW GROUP — CAPITAL MARKETS RESEARCH
+IPO Performance Dashboard & Quantitative Analysis
+Report Date: March 26, 2026
+======================================================================
+
+I. STATISTICAL SUMMARY
+----------------------------------------------------------------------
+
+  First-Day Returns:
+    Mean:               +15.15%
+    Median:             +10.27%
+    Std Dev:            23.82%
+    Skewness:           2.133
+    Kurtosis:           6.550
+    Min:                -12.23% (BTSG)
+    Max:                +101.86% (ALAB)
+    % Positive:         76.0%
+    % > +20%:           28.0%
+
+  Total Returns (to date):
+    Mean:               +27.52%
+    Median:             +3.38%
+    Std Dev:            72.35%
+    % Positive:         52.0%
+    Sharpe Proxy:       0.380
+
+II. RETURN DISTRIBUTION ANALYSIS
+----------------------------------------------------------------------
+
+  First-Day Return Quintiles:
+    P  0:  -12.23%
+    P 20:  -3.18%
+    P 40:  +5.78%
+    P 60:  +14.10%
+    P 80:  +26.28%
+    P100:  +101.86%
+
+  Performance Buckets:
+             < -10%:  1 ( 4.0%)  ##
+         -10% to 0%:  5 (20.0%)  ##########
+         0% to +10%:  6 (24.0%)  ############
+       +10% to +25%:  7 (28.0%)  ##############
+       +25% to +50%:  5 (20.0%)  ##########
+             > +50%:  1 ( 4.0%)  ##
+
+III. TOP & BOTTOM PERFORMERS
+----------------------------------------------------------------------
+
+  Top 5 First-Day Returns:
+    1.     ALAB  +101.9%  $0.8B  Technology (Semiconductors)
+    2.     RDDT   +48.4%  $0.7B  Technology (Social Media)
+    3.     CBRS   +38.8%  $0.8B  Technology (AI Chips)
+    4.     IBTA   +33.3%  $0.6B  Technology (AdTech)
+    5.      WAY   +28.2%  $0.7B  Healthcare Technology
+
+  Bottom 5 First-Day Returns:
+    1.     BTSG   -12.2%  $0.4B  Healthcare Services
+    2.     DOUG    -7.8%  $0.0B  Real Estate Services
+    3.       VG    -7.6%  $1.8B  Energy (LNG)
+    4.     HMIL    -6.0%  $33.7B  Automotive
+    5.     HMIL    -5.9%  $278.7B  Automotive
+
+  Top 5 Total Returns:
+    1.     RDDT  +327.1%  First-day: +48.4%  Technology (Social Media)
+    2.     LOAR  +122.5%  First-day: +24.5%  Industrials (Aerospace)
+    3.       AS   +70.0%  First-day: +15.1%  Consumer Discretionary (Sports)
+    4.     ALAB   +63.6%  First-day: +101.9%  Technology (Semiconductors)
+    5.       OS   +42.5%  First-day: +25.8%  Technology (Enterprise Software)
+
+IV. UNDERWRITER LEAGUE TABLE
+----------------------------------------------------------------------
+
+  Underwriter                         Deals Volume ($B)  Avg Ret
+  ─────────────────────────────────── ───── ─────────── ────────
+  Citi                                    3      356.3     -2.0%
+  Kotak                                   3      356.3     -2.0%
+  JP Morgan                              12      325.2     +9.3%
+  HSBC                                    2      312.4     -6.0%
+  BofA                                    4       47.9    +11.6%
+  Jefferies                               1       43.9     +5.8%
+  Goldman Sachs                          13       20.5    +11.3%
+  Morgan Stanley                         11       19.2    +25.9%
+
+V. GEOGRAPHIC ANALYSIS
+----------------------------------------------------------------------
+
+  Country              IPOs Raised ($B)  Avg Ret
+  ──────────────────── ──── ─────────── ────────
+  India                   4      366.3     -0.7%
+  US                     16       14.6    +20.4%
+  UAE                     1        5.6     +3.1%
+  Australia               1        3.8     +3.0%
+  Sweden                  1        2.2    +13.4%
+  Bermuda                 1        1.5    +19.9%
+  Finland                 1        1.4    +15.1%
+
+VI. SIGNAL OBSERVATIONS
+----------------------------------------------------------------------
+
+  Deal Size vs First-Day Return Correlation: -0.226
+    -> Negative correlation suggests larger IPOs are priced more efficiently
+
+  First-Day vs Total Return Correlation: 0.532
+    -> Moderate persistence — first-day winners tend to maintain gains
+
+======================================================================
+CONFIDENTIAL | D.E. Shaw Capital Markets Research
+======================================================================

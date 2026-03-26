@@ -1,0 +1,120 @@
+======================================================================
+GOLDMAN SACHS GLOBAL INVESTMENT RESEARCH
+Weekly Capital Markets Snapshot
+Date: March 26, 2026
+======================================================================
+
+EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+
+Global capital markets activity remains elevated. Our tracking database
+covers 25 IPOs raising $395.3B, 20 M&A transactions
+totaling $483.5B, and $325.8B in sovereign issuance across
+18 countries. Key themes: (1) tech IPOs driving first-day
+outperformance, (2) energy sector M&A consolidation, (3) elevated
+regulatory intervention blocking cross-border deals.
+
+I. IPO MARKET REVIEW
+----------------------------------------------------------------------
+
+  Pipeline:           25 IPOs tracked across 7 countries
+  Capital Raised:     $395.3B
+  Avg First-Day Pop:  15.1% (median: 10.3%)
+  Positive Returns:   76% of IPOs priced above offer
+  Largest IPO:        Hyundai Motor India ($278.7B)
+
+  Notable IPOs:
+    - Hyundai Motor India (HMIL): $278.7B,
+      first-day return -5.9%, led by Kotak / Citi / HSBC / JP Morgan
+    - Swiggy Ltd (SWIGGY): $43.9B,
+      first-day return +5.8%, led by Kotak / BofA / Citi / Jefferies
+    - Hyundai Motor India (additional allotment) (HMIL): $33.7B,
+      first-day return -6.0%, led by Kotak / Citi / HSBC / JP Morgan
+    - NTPC Green Energy (NTPCGREEN): $10.0B,
+      first-day return +3.2%, led by IDBI Capital / HDFC Bank / IIFL
+    - Talabat Holding (TALABAT): $5.6B,
+      first-day return +3.1%, led by Goldman Sachs / Morgan Stanley
+
+  Sector Breakdown:
+    - Technology (Food Delivery): 2 IPOs (avg return: +4.5%)
+    - Automotive: 2 IPOs (avg return: -6.0%)
+    - Industrials (Cold Storage REIT): 1 IPOs (avg return: +5.7%)
+    - Financial Services (Insurance): 1 IPOs (avg return: +13.0%)
+    - Technology (AdTech): 1 IPOs (avg return: +33.3%)
+
+  Underwriter League Table (by deal count involvement):
+    13 deals  Goldman Sachs
+    12 deals  JP Morgan
+    11 deals  Morgan Stanley
+     4 deals  BofA
+     3 deals  Barclays
+
+II. M&A DEAL FLOW
+----------------------------------------------------------------------
+
+  Deals Tracked:      20
+  Total Deal Value:   $483.5B
+  Avg Deal Size:      $24.2B
+  Completed:          16 (80%)
+  Blocked:            2 (regulatory intervention)
+  Cross-Border:       4
+
+  Top 5 Deals by Value:
+    - Broadcom / VMware: $69.0B
+      Cash + Stock | Completed | Technology (Virtualization)
+    - Exxon Mobil / Pioneer Natural Resources: $64.5B
+      Stock-for-Stock | Completed | Energy (E&P)
+    - Mars Inc / Kellanova: $35.9B
+      Cash Acquisition | Completed | Consumer Staples
+    - Capital One Financial / Discover Financial Services: $35.3B
+      Stock-for-Stock Merger | Pending Regulatory | Financial Services
+    - Synopsys / Ansys: $35.0B
+      Cash + Stock | Completed | Technology (EDA/Simulation)
+
+  Regulatory Watch:
+    - Capital One Financial / Discover Financial Services (Pending Regulatory)
+      Scale in payments network; combined credit card portfolio
+    - Hewlett Packard Enterprise / Juniper Networks (Blocked (DOJ))
+      AI-driven networking; campus and data center portfolio
+    - Alphabet (Google) / Wiz (Pending Regulatory)
+      Cloud security leadership; multi-cloud posture management
+    - Nippon Steel / United States Steel Corp (Blocked (CFIUS))
+      Global steel capacity; US market access
+
+III. SOVEREIGN ISSUANCE OVERVIEW
+----------------------------------------------------------------------
+
+  Total Issuance:     $325.8B across 18 countries
+  USD-Denominated:    11 issuances
+  Avg Yield:          5.73%
+
+  Largest Issuances:
+    - United States: $70.0B Treasury Note
+      5Y at 4.38% (AA+)
+    - United States: $69.0B Treasury Note
+      2Y at 4.21% (AA+)
+    - United States: $42.0B Treasury Note
+      10Y at 4.28% (AA+)
+    - United States: $25.0B Treasury Bond
+      30Y at 4.65% (AA+)
+    - Japan: $17.5B JGB
+      10Y at 1.05% (A+)
+
+IV. MARKET OUTLOOK & RISK FACTORS
+----------------------------------------------------------------------
+
+  Constructive Signals:
+    - IPO first-day returns remain positive, signaling healthy demand
+    - M&A completions outpace blockages 4:1
+    - EM sovereign issuance access maintained despite spread widening
+
+  Risk Factors:
+    - Regulatory intervention rising (CFIUS, DOJ antitrust)
+    - EM currency volatility could disrupt issuance calendars
+    - Rate path uncertainty affecting IPO pricing decisions
+    - Geopolitical risk premium in cross-border M&A
+
+======================================================================
+CONFIDENTIAL | For Internal Distribution Only
+Capital Markets Intelligence Platform
+======================================================================

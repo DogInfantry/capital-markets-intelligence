@@ -1,0 +1,151 @@
+======================================================================
+J.P. MORGAN — COUNTRY RISK ADVISORY
+Sovereign Risk & Capital Issuance Model
+Report Date: March 26, 2026
+======================================================================
+
+I. SOVEREIGN BASELINE OVERVIEW
+----------------------------------------------------------------------
+
+  Country            Rating 10Y Yld Debt/GDP GDP Gr  Infl
+  ────────────────── ────── ─────── ──────── ────── ─────
+  United States         AA+   4.25%     123%  +2.5%  3.1%
+  United Kingdom         AA   4.05%     101%  +0.6%  4.0%
+  Germany               AAA   2.35%      64%  +0.2%  2.9%
+  Japan                  A+   0.85%     255%  +1.9%  2.8%
+  China                  A+   2.30%      83%  +5.2%  0.2%
+  India                BBB-   7.10%      81%  +6.5%  5.4%
+  Brazil                 BB  11.80%      74%  +2.9%  4.6%
+  Mexico                BBB   9.45%      53%  +3.2%  4.7%
+  South Africa          BB-  10.50%      73%  +0.6%  5.1%
+  Turkey                 B+  25.00%      30%  +4.5% 58.0%
+  Saudi Arabia            A   4.80%      26%  -0.8%  1.6%
+  Australia             AAA   4.15%      50%  +1.5%  3.6%
+
+II. STRESS SCENARIO DEFINITIONS
+----------------------------------------------------------------------
+
+  Fed Hawkish (Rate Hike +100bp)
+    Fed raises rates 100bp; global risk-off
+
+  Global Recession
+    Synchronized global slowdown; risk-off
+
+  EM Currency Crisis
+    Capital flight from EM; contagion risk
+
+  Oil Shock ($120/bbl)
+    Oil price spike; stagflation risk for importers
+
+III. VULNERABILITY ASSESSMENT
+----------------------------------------------------------------------
+
+  Country            Avg Risk Max Risk Assessment
+  ────────────────── ──────── ──────── ─────────────────────────
+  China                 45.5    106.5  MODERATE VULNERABILITY
+  India                 45.5    106.5  MODERATE VULNERABILITY
+  Turkey                45.5    106.5  MODERATE VULNERABILITY
+  Brazil                44.7    106.5  MODERATE VULNERABILITY
+  South Africa          44.7    106.5  MODERATE VULNERABILITY
+  Mexico                44.7    106.5  MODERATE VULNERABILITY
+  United Kingdom        35.5     66.5  MODERATE VULNERABILITY
+  Germany               35.5     66.5  MODERATE VULNERABILITY
+  Japan                 35.5     66.5  MODERATE VULNERABILITY
+  Australia             34.7     66.5  MODERATE VULNERABILITY
+  Saudi Arabia          34.0     66.5  MODERATE VULNERABILITY
+  United States         20.0     36.5  LOW-MODERATE RISK
+
+IV. SCENARIO-BY-SCENARIO ANALYSIS
+----------------------------------------------------------------------
+
+  Fed Hawkish (Rate Hike +100bp)
+  ............................................................
+    Most Affected:
+      United Kingdom: risk score 19, yield 4.05% -> 5.05%
+      Germany: risk score 19, yield 2.35% -> 3.35%
+      Japan: risk score 19, yield 0.85% -> 1.85%
+    Least Affected:
+      United States: risk score 13
+      United Kingdom: risk score 19
+      Germany: risk score 19
+
+  Global Recession
+  ............................................................
+    Most Affected:
+      United Kingdom: risk score 28, yield 4.05% -> 3.55%
+      Germany: risk score 28, yield 2.35% -> 2.85%
+      Japan: risk score 28, yield 0.85% -> 1.35%
+    Least Affected:
+      United States: risk score 18
+      United Kingdom: risk score 28
+      Germany: risk score 28
+
+  EM Currency Crisis
+  ............................................................
+    Most Affected:
+      China: risk score 106, yield 2.30% -> 5.30%
+      India: risk score 106, yield 7.10% -> 10.10%
+      Brazil: risk score 106, yield 11.80% -> 14.80%
+    Least Affected:
+      United States: risk score 36
+      United Kingdom: risk score 66
+      Germany: risk score 66
+
+  Oil Shock ($120/bbl)
+  ............................................................
+    Most Affected:
+      United Kingdom: risk score 28, yield 4.05% -> 4.55%
+      Germany: risk score 28, yield 2.35% -> 2.85%
+      Japan: risk score 28, yield 0.85% -> 1.35%
+    Least Affected:
+      United States: risk score 12
+      Saudi Arabia: risk score 22
+      Brazil: risk score 25
+
+V. SOVEREIGN ISSUANCE ACTIVITY
+----------------------------------------------------------------------
+
+  Total Issuance Tracked:  $325.8B
+  Countries:               18
+  Investment Grade:        25 issuances
+  High Yield:              6 issuances
+
+  Issuance by Region:
+    North America       : $210.8B
+    Europe              : $48.0B
+    Asia-Pacific        : $45.4B
+    MENA                : $8.0B
+    Latin America       : $7.8B
+    Europe/MENA         : $4.1B
+    Africa              : $1.7B
+
+  EM Sovereign Spread Monitor (vs UST 10Y):
+    Turkey             Government Bond           +2425bps  (B+)
+    Brazil             NTN-F                     +740bps  (BB)
+    South Africa       Government Bond (R2037)   +655bps  (BB-)
+    Nigeria            Eurobond (USD)            +560bps  (B-)
+    Mexico             Mbono                     +555bps  (BBB)
+    India              G-Sec (Green Bond)        +267bps  (BBB-)
+    India              G-Sec                     +260bps  (BBB-)
+    Turkey             Eurobond (USD)            +250bps  (B+)
+
+VI. POLICY IMPLICATIONS & RECOMMENDATIONS
+----------------------------------------------------------------------
+
+  1. EM Currency Crisis is the highest-risk tail scenario. Countries with
+     large external financing needs (Turkey, South Africa, Brazil) are
+     most exposed. Monitor FX reserves and current account balances.
+
+  2. Fed hawkishness transmits globally through the USD channel.
+     DM sovereigns face manageable yield increases; EM sovereigns face
+     amplified capital outflow risk.
+
+  3. Oil shock creates winner/loser divergence: Saudi Arabia and US
+     benefit; India, Japan, and Turkey face stagflation pressure.
+
+  4. Global recession scenario shows classic flight-to-quality:
+     US, Germany, and Japan yields fall while EM spreads widen.
+
+======================================================================
+CONFIDENTIAL | J.P. Morgan Country Risk Advisory
+======================================================================
