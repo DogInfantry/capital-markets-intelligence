@@ -1,0 +1,26 @@
+company,ticker,exchange,ipo_date,offer_price,first_day_close,current_price,shares_offered,sector,lead_underwriter,country,first_day_return_pct,total_return_pct,deal_size_usd,market_cap_at_ipo_est
+Lineage Inc,LINE,NASDAQ,2024-07-26,78.0,82.45,71.2,56800000,Industrials (Cold Storage REIT),Goldman Sachs / Morgan Stanley,US,5.71,-8.72,4430400000.0,22152000000.0
+OneStream Inc,OS,NASDAQ,2024-07-25,20.0,25.16,28.5,25000000,Technology (Enterprise Software),Morgan Stanley / JP Morgan,US,25.8,42.5,500000000.0,2500000000.0
+Ardent Health Partners,ARDT,NYSE,2024-07-18,16.0,17.25,18.9,11100000,Healthcare,BofA Securities / Goldman Sachs,US,7.81,18.12,177600000.0,888000000.0
+Bowhead Specialty Holdings,BOW,NYSE,2024-05-23,27.0,30.5,35.75,6200000,Financial Services (Insurance),JP Morgan / Goldman Sachs,US,12.96,32.41,167400000.0,837000000.0
+Ibotta Inc,IBTA,NYSE,2024-04-18,88.0,117.3,72.8,6500000,Technology (AdTech),Goldman Sachs,US,33.3,-17.27,572000000.0,2860000000.0
+Viking Holdings Ltd,VIK,NYSE,2024-05-01,24.0,28.77,33.4,64000000,Consumer Discretionary (Cruise),BofA / Barclays / JP Morgan,Bermuda,19.88,39.17,1536000000.0,7680000000.0
+Reddit Inc,RDDT,NYSE,2024-03-21,34.0,50.44,145.2,22000000,Technology (Social Media),Morgan Stanley / Goldman Sachs,US,48.35,327.06,748000000.0,3740000000.0
+Astera Labs Inc,ALAB,NASDAQ,2024-03-20,36.0,72.67,58.9,21700000,Technology (Semiconductors),Morgan Stanley,US,101.86,63.61,781200000.0,3906000000.0
+BrightSpring Health,BTSG,NASDAQ,2024-01-26,13.0,11.41,10.85,32300000,Healthcare Services,Goldman Sachs / JP Morgan,US,-12.23,-16.54,419900000.0,2099500000.0
+Amer Sports Inc,AS,NYSE,2024-02-01,13.0,14.96,22.1,105000000,Consumer Discretionary (Sports),Goldman Sachs / JP Morgan / Morgan Stanley,Finland,15.08,70.0,1365000000.0,6825000000.0
+Rubrik Inc,RBRK,NYSE,2024-04-25,32.0,38.27,45.6,23000000,Technology (Cybersecurity),Goldman Sachs / Barclays,US,19.59,42.5,736000000.0,3680000000.0
+Tempus AI Inc,TEM,NASDAQ,2024-06-14,37.0,40.8,38.25,11100000,Healthcare / AI,Morgan Stanley / Goldman Sachs,US,10.27,3.38,410700000.0,2053500000.0
+Loar Holdings Inc,LOAR,NYSE,2024-06-27,28.0,34.85,62.3,12800000,Industrials (Aerospace),JP Morgan / Morgan Stanley,US,24.46,122.5,358400000.0,1792000000.0
+Waystar Holding,WAY,NASDAQ,2024-06-07,21.5,27.56,30.1,34500000,Healthcare Technology,BofA / JP Morgan / Barclays,US,28.19,40.0,741750000.0,3708750000.0
+Douglas Elliman (re-IPO),DOUG,NYSE,2024-01-05,3.2,2.95,2.1,8000000,Real Estate Services,Cantor Fitzgerald,US,-7.81,-34.38,25600000.0,128000000.0
+Hyundai Motor India,HMIL,NSE,2024-10-22,1960.0,1844.6,1780.0,142194700,Automotive,Kotak / Citi / HSBC / JP Morgan,India,-5.89,-9.18,278701612000.0,1393508060000.0
+Swiggy Ltd,SWIGGY,NSE,2024-11-13,390.0,412.75,385.2,112546700,Technology (Food Delivery),Kotak / BofA / Citi / Jefferies,India,5.83,-1.23,43893213000.0,219466065000.0
+NTPC Green Energy,NTPCGREEN,NSE,2024-11-27,108.0,111.5,105.4,92593000,Utilities (Renewable Energy),IDBI Capital / HDFC Bank / IIFL,India,3.24,-2.41,10000044000.0,50000220000.0
+Talabat Holding,TALABAT,DFM,2024-12-10,1.6,1.65,1.58,3493236000,Technology (Food Delivery),Goldman Sachs / Morgan Stanley,UAE,3.12,-1.25,5589177600.0,27945888000.0
+DigiCo REIT,DGC,ASX,2024-12-12,5.0,5.15,4.88,750000000,Real Estate (Data Centers),Macquarie / UBS / JP Morgan,Australia,3.0,-2.4,3750000000.0,18750000000.0
+Hyundai Motor India (additional allotment),HMIL,BSE,2024-10-22,1960.0,1842.0,1780.0,17187500,Automotive,Kotak / Citi / HSBC / JP Morgan,India,-6.02,-9.18,33687500000.0,168437500000.0
+Cerebras Systems,CBRS,NASDAQ,2025-03-15,42.0,58.3,55.1,20000000,Technology (AI Chips),Morgan Stanley / Citigroup,US,38.81,31.19,840000000.0,4200000000.0
+Klarna Bank AB,KLAR,NYSE,2025-03-10,55.0,62.4,60.8,40000000,Financial Technology (BNPL),Goldman Sachs / JP Morgan / Morgan Stanley,Sweden,13.45,10.55,2200000000.0,11000000000.0
+CoreWeave Inc,CRWV,NASDAQ,2025-03-28,40.0,39.0,38.5,49000000,Technology (Cloud/GPU),Morgan Stanley / Goldman Sachs,US,-2.5,-3.75,1960000000.0,9800000000.0
+Venture Global LNG,VG,NYSE,2025-01-24,25.0,23.1,12.8,70000000,Energy (LNG),JP Morgan / Goldman Sachs / BofA,US,-7.6,-48.8,1750000000.0,8750000000.0

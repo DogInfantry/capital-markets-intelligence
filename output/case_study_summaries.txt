@@ -1,0 +1,369 @@
+======================================================================
+M&A CASE STUDY SUMMARIES
+Capital Markets Intelligence Platform — March 2026
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #1: Capital One Financial / Discover Financial Services
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $35.3B
+  Announced:       2024-02-19 00:00:00
+  Sector:          Financial Services
+  Deal Type:       Stock-for-Stock Merger
+  Size Tier:       Large-Cap ($20-50B)
+  Status:          Pending Regulatory
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Scale in payments network; combined credit card portfolio
+
+  Value Drivers:   Cost synergies; Revenue synergies
+  Risk Factors:    Size-related execution complexity; Regulatory approval uncertainty
+  Research Score:  10/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #2: Mars Inc / Kellanova
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $35.9B
+  Announced:       2024-08-14 00:00:00
+  Sector:          Consumer Staples
+  Deal Type:       Cash Acquisition
+  Size Tier:       Large-Cap ($20-50B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Snacking portfolio expansion; global distribution synergies
+
+  Value Drivers:   Cost synergies; Revenue synergies
+  Risk Factors:    Size-related execution complexity
+  Research Score:  7/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #3: Synopsys / Ansys
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $35.0B
+  Announced:       2024-01-16 00:00:00
+  Sector:          Technology (EDA/Simulation)
+  Deal Type:       Cash + Stock
+  Size Tier:       Large-Cap ($20-50B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Silicon-to-systems design platform; simulation capabilities
+
+  Value Drivers:   Platform/capability expansion
+  Risk Factors:    Size-related execution complexity; Tech integration risk; talent retention
+  Research Score:  7/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #4: Diamondback Energy / Endeavor Energy Resources
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $26.0B
+  Announced:       2024-02-12 00:00:00
+  Sector:          Energy (E&P)
+  Deal Type:       Cash + Stock
+  Size Tier:       Large-Cap ($20-50B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Permian Basin consolidation; scale and cost efficiencies
+
+  Value Drivers:   Cost synergies; Market consolidation
+  Risk Factors:    Standard execution risk
+  Research Score:  7/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #5: ConocoPhillips / Marathon Oil
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $22.5B
+  Announced:       2024-05-29 00:00:00
+  Sector:          Energy (E&P)
+  Deal Type:       Stock-for-Stock
+  Size Tier:       Large-Cap ($20-50B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Multi-basin diversification; inventory depth in shale
+
+  Value Drivers:   Strategic repositioning
+  Risk Factors:    Standard execution risk
+  Research Score:  7/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #6: Hewlett Packard Enterprise / Juniper Networks
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $14.0B
+  Announced:       2024-01-09 00:00:00
+  Sector:          Technology (Networking)
+  Deal Type:       Cash Acquisition
+  Size Tier:       Mid-Cap ($10-20B)
+  Status:          Blocked (DOJ)
+  Cross-Border:    No
+
+  Strategic Rationale:
+    AI-driven networking; campus and data center portfolio
+
+  Value Drivers:   Revenue synergies
+  Risk Factors:    DEAL BLOCKED — regulatory intervention; Tech integration risk; talent retention
+  Research Score:  7/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #7: Johnson & Johnson / Intra-Cellular Therapies
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $14.6B
+  Announced:       2025-01-13 00:00:00
+  Sector:          Pharmaceuticals
+  Deal Type:       Cash Acquisition
+  Size Tier:       Mid-Cap ($10-20B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    CNS neuroscience pipeline; Caplyta revenue stream
+
+  Value Drivers:   Revenue synergies; Platform/capability expansion
+  Risk Factors:    Standard execution risk
+  Research Score:  5/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #8: Alphabet (Google) / Wiz
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $32.0B
+  Announced:       2025-03-18 00:00:00
+  Sector:          Technology (Cybersecurity)
+  Deal Type:       Cash Acquisition
+  Size Tier:       Large-Cap ($20-50B)
+  Status:          Pending Regulatory
+  Cross-Border:    Yes
+
+  Strategic Rationale:
+    Cloud security leadership; multi-cloud posture management
+
+  Value Drivers:   Strategic repositioning
+  Risk Factors:    Cross-border regulatory risk (CFIUS/antitrust); Size-related execution complexity; Regulatory approval uncertainty; Tech integration risk; talent retention
+  Research Score:  10/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #9: Cisco Systems / Splunk
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $28.0B
+  Announced:       2023-09-21 00:00:00
+  Sector:          Technology (Observability)
+  Deal Type:       Cash Acquisition
+  Size Tier:       Large-Cap ($20-50B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Security + observability platform; recurring revenue shift
+
+  Value Drivers:   Revenue synergies; Platform/capability expansion
+  Risk Factors:    Tech integration risk; talent retention
+  Research Score:  7/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #10: AbbVie / ImmunoGen
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $10.1B
+  Announced:       2023-11-30 00:00:00
+  Sector:          Pharmaceuticals (Oncology)
+  Deal Type:       Cash Acquisition
+  Size Tier:       Mid-Cap ($10-20B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    ADC platform (antibody-drug conjugates); oncology pipeline
+
+  Value Drivers:   Platform/capability expansion
+  Risk Factors:    Standard execution risk
+  Research Score:  5/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #11: Nippon Steel / United States Steel Corp
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $14.9B
+  Announced:       2023-12-18 00:00:00
+  Sector:          Materials (Steel)
+  Deal Type:       Cash Acquisition
+  Size Tier:       Mid-Cap ($10-20B)
+  Status:          Blocked (CFIUS)
+  Cross-Border:    Yes
+
+  Strategic Rationale:
+    Global steel capacity; US market access
+
+  Value Drivers:   Market consolidation
+  Risk Factors:    Cross-border regulatory risk (CFIUS/antitrust); DEAL BLOCKED — regulatory intervention
+  Research Score:  8/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #12: BlackRock / Global Infrastructure Partners
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $12.5B
+  Announced:       2024-01-12 00:00:00
+  Sector:          Financial Services (Alt Assets)
+  Deal Type:       Cash + Stock
+  Size Tier:       Mid-Cap ($10-20B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Infrastructure AUM growth; private markets expansion
+
+  Value Drivers:   Market consolidation
+  Risk Factors:    Standard execution risk
+  Research Score:  5/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #13: Exxon Mobil / Pioneer Natural Resources
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $64.5B
+  Announced:       2023-10-11 00:00:00
+  Sector:          Energy (E&P)
+  Deal Type:       Stock-for-Stock
+  Size Tier:       Mega-Deal (>$50B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Permian Basin dominance; 40+ years of drilling inventory
+
+  Value Drivers:   Market consolidation
+  Risk Factors:    Size-related execution complexity
+  Research Score:  7/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #14: Broadcom / VMware
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $69.0B
+  Announced:       2022-05-26 00:00:00
+  Sector:          Technology (Virtualization)
+  Deal Type:       Cash + Stock
+  Size Tier:       Mega-Deal (>$50B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Enterprise software diversification; subscription transition
+
+  Value Drivers:   Strategic repositioning
+  Risk Factors:    Size-related execution complexity; Tech integration risk; talent retention
+  Research Score:  7/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #15: Danaher / Abcam
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $5.7B
+  Announced:       2023-07-20 00:00:00
+  Sector:          Life Sciences
+  Deal Type:       Cash Acquisition
+  Size Tier:       Core Middle Market (<$10B)
+  Status:          Completed
+  Cross-Border:    Yes
+
+  Strategic Rationale:
+    Biologics reagents leadership; proteomics research tools
+
+  Value Drivers:   Strategic repositioning
+  Risk Factors:    Cross-border regulatory risk (CFIUS/antitrust)
+  Research Score:  6/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #16: Silver Lake / Canada Pension / Endeavor Group Holdings
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $13.0B
+  Announced:       2024-04-02 00:00:00
+  Sector:          Media & Entertainment
+  Deal Type:       Take-Private (LBO)
+  Size Tier:       Mid-Cap ($10-20B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Sports & entertainment assets; UFC + WWE consolidation play
+
+  Value Drivers:   Market consolidation
+  Risk Factors:    Leverage risk (PE sponsor deal)
+  Research Score:  5/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #17: GTCR / Worldpay (from FIS)
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $18.5B
+  Announced:       2024-02-01 00:00:00
+  Sector:          Financial Technology (Payments)
+  Deal Type:       Take-Private (LBO)
+  Size Tier:       Mid-Cap ($10-20B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Merchant acquiring at scale; separation from FIS
+
+  Value Drivers:   Cost synergies
+  Risk Factors:    Leverage risk (PE sponsor deal); Tech integration risk; talent retention
+  Research Score:  5/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #18: Novo Holdings / Catalent
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $16.5B
+  Announced:       2024-02-05 00:00:00
+  Sector:          Healthcare (CDMO)
+  Deal Type:       Cash Acquisition
+  Size Tier:       Mid-Cap ($10-20B)
+  Status:          Completed
+  Cross-Border:    Yes
+
+  Strategic Rationale:
+    Biologics manufacturing capacity for Novo Nordisk pipeline
+
+  Value Drivers:   Platform/capability expansion
+  Risk Factors:    Cross-border regulatory risk (CFIUS/antitrust)
+  Research Score:  6/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #19: Bain Capital / Envestnet
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $4.5B
+  Announced:       2024-07-10 00:00:00
+  Sector:          Financial Technology (Wealth)
+  Deal Type:       Take-Private (LBO)
+  Size Tier:       Core Middle Market (<$10B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Wealth management data platform; advisor tech modernization
+
+  Value Drivers:   Platform/capability expansion
+  Risk Factors:    Leverage risk (PE sponsor deal); Tech integration risk; talent retention
+  Research Score:  5/10
+
+──────────────────────────────────────────────────────────────────────
+CASE STUDY #20: Veritas Capital / Evergreen / Cotiviti (from Verscend)
+──────────────────────────────────────────────────────────────────────
+  Deal Value:      $11.0B
+  Announced:       2024-01-08 00:00:00
+  Sector:          Healthcare Analytics
+  Deal Type:       Sponsor-to-Sponsor LBO
+  Size Tier:       Mid-Cap ($10-20B)
+  Status:          Completed
+  Cross-Border:    No
+
+  Strategic Rationale:
+    Healthcare payment accuracy; AI-driven claims analytics
+
+  Value Drivers:   Strategic repositioning
+  Risk Factors:    Leverage risk (PE sponsor deal)
+  Research Score:  5/10
+
+======================================================================
+Total deals analyzed: 20
+Avg research relevance: 6.5/10
+======================================================================

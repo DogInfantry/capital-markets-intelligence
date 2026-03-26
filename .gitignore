@@ -24,17 +24,9 @@ Thumbs.db
 .env
 *.env
 
-# Data (keep structure, ignore large files)
-data/raw/*.csv
+# Data (large files only)
 data/raw/*.parquet
-data/processed/*.csv
 data/processed/*.parquet
-!data/raw/.gitkeep
-!data/processed/.gitkeep
 
-# Output
-output/*.csv
+# Output (large files only)
 output/*.xlsx
-output/*.pdf
-output/*.png
-!output/.gitkeep

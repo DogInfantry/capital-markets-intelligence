@@ -1,0 +1,21 @@
+acquirer,target,announced_date,deal_value_usd_bn,status,sector,deal_type,strategic_rationale,acquirer_country,target_country,premium_est_pct,cross_border,year
+Capital One Financial,Discover Financial Services,2024-02-19,35.3,Pending Regulatory,Financial Services,Stock-for-Stock Merger,Scale in payments network; combined credit card portfolio,US,US,,False,2024
+Mars Inc,Kellanova,2024-08-14,35.9,Completed,Consumer Staples,Cash Acquisition,Snacking portfolio expansion; global distribution synergies,US,US,,False,2024
+Synopsys,Ansys,2024-01-16,35.0,Completed,Technology (EDA/Simulation),Cash + Stock,Silicon-to-systems design platform; simulation capabilities,US,US,,False,2024
+Diamondback Energy,Endeavor Energy Resources,2024-02-12,26.0,Completed,Energy (E&P),Cash + Stock,Permian Basin consolidation; scale and cost efficiencies,US,US,,False,2024
+ConocoPhillips,Marathon Oil,2024-05-29,22.5,Completed,Energy (E&P),Stock-for-Stock,Multi-basin diversification; inventory depth in shale,US,US,,False,2024
+Hewlett Packard Enterprise,Juniper Networks,2024-01-09,14.0,Blocked (DOJ),Technology (Networking),Cash Acquisition,AI-driven networking; campus and data center portfolio,US,US,,False,2024
+Johnson & Johnson,Intra-Cellular Therapies,2025-01-13,14.6,Completed,Pharmaceuticals,Cash Acquisition,CNS neuroscience pipeline; Caplyta revenue stream,US,US,,False,2025
+Alphabet (Google),Wiz,2025-03-18,32.0,Pending Regulatory,Technology (Cybersecurity),Cash Acquisition,Cloud security leadership; multi-cloud posture management,US,Israel,,True,2025
+Cisco Systems,Splunk,2023-09-21,28.0,Completed,Technology (Observability),Cash Acquisition,Security + observability platform; recurring revenue shift,US,US,,False,2023
+AbbVie,ImmunoGen,2023-11-30,10.1,Completed,Pharmaceuticals (Oncology),Cash Acquisition,ADC platform (antibody-drug conjugates); oncology pipeline,US,US,,False,2023
+Nippon Steel,United States Steel Corp,2023-12-18,14.9,Blocked (CFIUS),Materials (Steel),Cash Acquisition,Global steel capacity; US market access,Japan,US,,True,2023
+BlackRock,Global Infrastructure Partners,2024-01-12,12.5,Completed,Financial Services (Alt Assets),Cash + Stock,Infrastructure AUM growth; private markets expansion,US,US,,False,2024
+Exxon Mobil,Pioneer Natural Resources,2023-10-11,64.5,Completed,Energy (E&P),Stock-for-Stock,Permian Basin dominance; 40+ years of drilling inventory,US,US,,False,2023
+Broadcom,VMware,2022-05-26,69.0,Completed,Technology (Virtualization),Cash + Stock,Enterprise software diversification; subscription transition,US,US,,False,2022
+Danaher,Abcam,2023-07-20,5.7,Completed,Life Sciences,Cash Acquisition,Biologics reagents leadership; proteomics research tools,US,UK,,True,2023
+Silver Lake / Canada Pension,Endeavor Group Holdings,2024-04-02,13.0,Completed,Media & Entertainment,Take-Private (LBO),Sports & entertainment assets; UFC + WWE consolidation play,US,US,,False,2024
+GTCR,Worldpay (from FIS),2024-02-01,18.5,Completed,Financial Technology (Payments),Take-Private (LBO),Merchant acquiring at scale; separation from FIS,US,US,,False,2024
+Novo Holdings,Catalent,2024-02-05,16.5,Completed,Healthcare (CDMO),Cash Acquisition,Biologics manufacturing capacity for Novo Nordisk pipeline,Denmark,US,,True,2024
+Bain Capital,Envestnet,2024-07-10,4.5,Completed,Financial Technology (Wealth),Take-Private (LBO),Wealth management data platform; advisor tech modernization,US,US,,False,2024
+Veritas Capital / Evergreen,Cotiviti (from Verscend),2024-01-08,11.0,Completed,Healthcare Analytics,Sponsor-to-Sponsor LBO,Healthcare payment accuracy; AI-driven claims analytics,US,US,,False,2024
