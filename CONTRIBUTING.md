@@ -1,45 +1,52 @@
 # Contributing to Capital Markets Intelligence Platform
 
-Thank you for your interest in contributing! This project is open to contributions from anyone with an interest in quantitative finance, data engineering, or Python development.
+Thank you for your interest in contributing! This platform is built to mirror institutional research standards — contributions that raise analytical depth, code quality, or usability are all welcome.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Development Workflow](#development-workflow)
-- [Project Structure](#project-structure)
-- [Coding Style](#coding-style)
-- [How to Propose Changes](#how-to-propose-changes)
-- [Good First Issues](#good-first-issues)
-- [Need Help?](#need-help)
+1. [Getting Started](#getting-started)
+2. [Development Setup](#development-setup)
+3. [Running the Pipeline](#running-the-pipeline)
+4. [How to Contribute](#how-to-contribute)
+5. [Coding Style](#coding-style)
+6. [Submitting a PR](#submitting-a-pr)
+7. [Issue Labels](#issue-labels)
 
 ---
 
 ## Getting Started
 
-### 1. Fork & Clone
+1. **Fork** the repository and clone your fork locally.
+2. Browse [open issues](../../issues) — look for `good first issue` or `help wanted` labels.
+3. Comment on an issue to claim it before starting work.
+
+---
+
+## Development Setup
+
+**Requirements:** Python 3.13+
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/capital-markets-intelligence.git
+# Clone your fork
+git clone https://github.com/<your-username>/capital-markets-intelligence.git
 cd capital-markets-intelligence
-```
 
-### 2. Set Up Environment
-
-Requires **Python 3.10+** (developed on 3.13).
-
-```bash
-python -m venv venv
+# Create and activate virtual environment
+python3 -m venv venv
 source venv/bin/activate        # Mac/Linux
 # venv\Scripts\activate         # Windows
+
+# Install dependencies
 pip install -r requirements.txt
 ```
 
-### 3. Run a Minimal Pipeline (Quick Validation)
+---
 
-You don't need to run all 13 scripts to test your changes. A fast subset:
+## Running the Pipeline
 
+**Quick validation** (minimal run — recommended for contributors):
 ```bash
 python scripts/01_fetch_ipo_data.py
 python scripts/05_fetch_sovereign_data.py
@@ -47,63 +54,42 @@ python scripts/10_advanced_analysis.py
 python scripts/11_generate_plotly_dashboards.py
 ```
 
-### 4. Verify Outputs
+**Full pipeline:**
+```bash
+# Phase 1 — Data Collection
+python scripts/01_fetch_ipo_data.py
+python scripts/02_fetch_mna_data.py
+python scripts/03_stress_test_model.py
+python scripts/04_case_study_builder.py
+python scripts/05_fetch_sovereign_data.py
 
-After running, check that:
-- `data/processed/` contains updated CSVs
-- `output/dashboards/` contains `.html` files you can open in a browser
+# Phase 2 — Live API Data
+python scripts/08_fetch_fred_data.py
+python scripts/09_fetch_worldbank_data.py
+
+# Phase 3 — Advanced Analysis
+python scripts/10_advanced_analysis.py
+
+# Phase 4 — Outputs
+python scripts/06_generate_visualizations.py
+python scripts/07_generate_memos.py
+python scripts/11_generate_plotly_dashboards.py
+python scripts/12_generate_excel_reports.py
+python scripts/13_generate_pdf_reports.py
+```
+
+Outputs appear in `output/` (dashboards, Excel, PDFs, memos).
 
 ---
 
-## Development Workflow
+## How to Contribute
 
-1. **Find or open an issue** — check the [Issues](https://github.com/DogInfantry/capital-markets-intelligence/issues) tab. Look for `good first issue` or `help wanted` labels.
-2. **Comment on the issue** to say you're working on it (avoids duplicate work).
-3. **Create a branch** from `main`:
-   ```bash
-   git checkout -b feature/your-feature-name
-   # or
-   git checkout -b fix/your-bug-fix
-   ```
-4. **Make your changes**, commit with clear messages (see below).
-5. **Open a Pull Request** against `main` using the PR template.
-6. **Respond to review** — we aim to review PRs within 48–72 hours.
-
-### Commit Message Format
-
-We follow [Conventional Commits](https://www.conventionalcommits.org/):
-
-```
-feat: add logistic regression to M&A deal screening
-fix: handle missing yield curve data for short-dated tenors
-docs: add Scenario Cookbook for IPO event study
-refactor: extract CSV loading helpers to utils module
-test: add golden-data test for sovereign risk index
-chore: update requirements.txt with yfinance and plotly
-```
-
----
-
-## Project Structure
-
-```
-capital-markets-intelligence/
-├── scripts/          # Numbered 01–13 pipeline (data → analysis → outputs)
-├── analysis/         # Jupyter notebooks for exploratory work
-├── data/
-│   ├── raw/          # Live API + curated source data
-│   ├── processed/    # Model output CSVs (generated, not tracked)
-│   └── cache/        # API response cache (not tracked)
-├── output/
-│   ├── dashboards/   # Plotly HTML files
-│   ├── excel/        # openpyxl workbooks
-│   ├── pdf/          # fpdf reports
-│   └── memos/        # Text research memos
-├── docs/             # Extended documentation
-└── tests/            # (Planned) pytest test suite
-```
-
-**Key principle:** Scripts are numbered in execution order. Each script reads from `data/` and writes back to `data/processed/` or `output/`. Avoid cross-script imports — each script should be independently runnable.
+1. Pick an issue or open a new one describing your idea.
+2. Create a feature branch: `git checkout -b feature/your-feature-name`
+3. Make your changes (keep PRs focused — one feature or fix per PR).
+4. Run the quick validation pipeline to confirm nothing is broken.
+5. Commit with a clear message: `feat: add sector-level M&A summaries`
+6. Push and open a Pull Request against `main`.
 
 ---
 
@@ -111,12 +97,12 @@ capital-markets-intelligence/
 
 - **Formatter:** `black` (line length 100)
 - **Linter:** `ruff` or `flake8`
-- **Docstrings:** Google-style
-- **Type hints:** Encouraged for new functions, required for any new shared utilities
-- **No hard-coded paths:** Use `pathlib.Path(__file__).parent` for relative paths
-- **No silent failures:** Raise meaningful exceptions or print a clear warning when data is unavailable
+- **Docstrings:** NumPy or Google style
+- **Paths:** use `pathlib.Path`, not raw string concatenation
+- **Logging:** use Python `logging` module, not `print()`
+- **Type hints:** encouraged for all new functions
 
-To auto-format before committing:
+To format before committing:
 ```bash
 pip install black ruff
 black scripts/ analysis/
@@ -125,48 +111,32 @@ ruff check scripts/ analysis/
 
 ---
 
-## How to Propose Changes
+## Submitting a PR
 
-### Bug Reports
-Open an issue using the **Bug Report** template. Include:
-- Steps to reproduce
-- Expected vs actual behaviour
-- Python version, OS, and dependency versions (`pip freeze`)
-- Any relevant log output or tracebacks
+Please fill in the PR template when opening a PR. Key points:
 
-### Feature Requests
-Open an issue using the **Feature Request** template. Include:
-- Why this improves the platform (which use case / vertical does it help?)
-- What data sources it needs
-- Whether it requires new dependencies
-
-### Analytics / Model PRs
-If your PR changes an analytical model (e.g., event study methodology, sovereign risk weights):
-- Include a short write-up (in the PR body or a `docs/` file) explaining the methodology and its source
-- Show sample output before and after
-- Link to any academic papers or practitioner references used
+- What changed and why.
+- How you tested it (e.g., "ran quick validation, checked Excel output").
+- Screenshots or sample output if the change touches dashboards/reports.
 
 ---
 
-## Good First Issues
+## Issue Labels
 
-Looking for somewhere to start? These are well-scoped entry points:
-
-- 🏷️ Filter by [`good first issue`](https://github.com/DogInfantry/capital-markets-intelligence/issues?q=is%3Aopen+label%3A%22good+first+issue%22)
-- 🏷️ Filter by [`help wanted`](https://github.com/DogInfantry/capital-markets-intelligence/issues?q=is%3Aopen+label%3A%22help+wanted%22)
-
-Examples of good first contributions:
-- Fix a typo or improve an explanation in the README
-- Add a missing dependency to `requirements.txt`
-- Add type hints to one script
-- Write a pytest test for a single model function
-
----
-
-## Need Help?
-
-Open a [Discussion](https://github.com/DogInfantry/capital-markets-intelligence/discussions) or tag `@DogInfantry` in an issue comment. We're happy to help you get oriented.
+| Label | Meaning |
+|-------|---------|
+| `good first issue` | Small, well-scoped — great for new contributors |
+| `help wanted` | Higher-impact work the maintainer wants community help on |
+| `analytics` | Changes to quantitative models or analysis logic |
+| `data` | Changes to data fetching, cleaning, or schemas |
+| `infra` | Packaging, CI, config, testing, logging |
+| `ux` | Dashboards, Excel/PDF polish, visual output |
+| `docs` | Documentation, notebooks, cookbooks |
+| `IPO` | IPO event study module |
+| `M&A` | M&A deal screening module |
+| `sovereign` | Sovereign risk index and stress testing |
+| `macro` | Cross-asset regime detection and yield curve |
 
 ---
 
-*Built to institutional research standards — contributions held to the same bar.*
+*Built to institutional research standards. Contributions held to the same bar.*

@@ -1,39 +1,28 @@
 ---
 name: Feature Request
 about: Propose a new model, data source, output format, or improvement
-title: '[FEAT] '
 labels: enhancement
-assignees: ''
 ---
 
-## 💡 Summary
+## Motivation
 
-One-sentence description of the feature.
+What problem does this solve, or what capability does it add? Why is it valuable for a capital-markets research platform?
 
-## 🎯 Motivation
+## Proposed Change
 
-Why would this improve the platform? Which vertical does it strengthen?
-- [ ] IPO Event Study
-- [ ] M&A Screening
-- [ ] Sovereign Risk
-- [ ] Cross-Asset Regime
-- [ ] Yield Curve
-- [ ] Infrastructure / DevEx
-- [ ] Output / Dashboards
-- [ ] Documentation
+Describe the feature clearly. Include:
+- Which module/script it affects (IPO, M&A, sovereign, macro, output generation, infra)
+- High-level approach or implementation idea
+- Any new dependencies required
 
-## 📐 Proposed Approach
+## Data Required
 
-Brief description of how you'd implement it. If it's an analytical model, cite your methodology source.
+Does this need new data sources? If so, are they free and API-key-free?
 
-## 📦 Data Requirements
+## Expected Output / Impact
 
-What data sources does this need? Is it already available in the repo, or does it need a new fetcher?
+What does success look like? What changes in the outputs (dashboards, Excel, PDFs, memos)?
 
-## 🔗 New Dependencies
+## Additional Context
 
-Any new Python packages required? Are they zero-API-key compatible?
-
-## 📎 References
-
-Links to academic papers, practitioner notes, or existing open-source implementations.
+Links, references, related issues, or examples from other open-source finance projects.

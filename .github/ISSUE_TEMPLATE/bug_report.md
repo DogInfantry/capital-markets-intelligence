@@ -1,43 +1,36 @@
 ---
 name: Bug Report
 about: Something is broken or producing wrong output
-title: '[BUG] '
 labels: bug
-assignees: ''
 ---
 
-## 🐛 Describe the Bug
+## Description
 
-A clear, concise description of what went wrong.
+A clear, concise description of the bug.
 
-## 📋 Steps to Reproduce
+## Steps to Reproduce
 
-1. Run `python scripts/...`
-2. With these parameters / data / config: ...
-3. See error
+1. Run script: `python scripts/XX_...py`
+2. With config / data: ...
+3. Error or wrong output observed: ...
 
-## ✅ Expected Behaviour
+## Expected Behaviour
 
-What you expected to happen.
+What should have happened?
 
-## ❌ Actual Behaviour
+## Actual Behaviour
 
-What actually happened. Paste the full traceback or error output below.
+What actually happened? Include error messages or wrong output.
 
-```
-# paste traceback here
-```
-
-## 🌍 Environment
-
-- OS: [e.g. macOS 14, Ubuntu 22.04, Windows 11]
-- Python version: [e.g. 3.13.0]
-- Key dependency versions (run `pip freeze | grep -E 'pandas|numpy|yfinance|plotly|scipy'`):
+## Logs / Traceback
 
 ```
-# paste pip freeze output here
+Paste full traceback here
 ```
 
-## 📎 Additional Context
+## Environment
 
-Any other context, screenshots, or sample data that helps reproduce the issue.
+- OS:
+- Python version:
+- Key package versions (pandas, yfinance, plotly, etc.):
+- How you ran the pipeline (which scripts, in which order):
