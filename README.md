@@ -6,7 +6,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge)]()
+[![Contributions](https://img.shields.io/badge/Contributions-Welcome-f97316?style=for-the-badge)](CONTRIBUTING.md)
 [![Data](https://img.shields.io/badge/Live_Data-Yahoo_Finance_%7C_World_Bank-0077B5?style=for-the-badge)]()
 
 <br/>
@@ -15,7 +16,7 @@
 
 <br/>
 
-[🚀 Quick Start](#-quick-start) · [📐 Architecture](#-architecture) · [🔬 Models](#-proprietary-analytical-models) · [📦 Outputs](#-output-formats) · [🗂️ Data Sources](#%EF%B8%8F-data-sources)
+[🚀 Quick Start](#-quick-start) · [📐 Architecture](#-architecture) · [🔬 Models](#-proprietary-analytical-models) · [📦 Outputs](#-output-formats) · [🗂️ Data Sources](#%EF%B8%8F-data-sources) · [🤝 Contributing](#-contributing) · [🗺️ Roadmap](#%EF%B8%8F-roadmap)
 
 </div>
 
@@ -82,6 +83,9 @@ capital-markets-intelligence/
 │   ├── country_risk_model.ipynb      # JPM country risk stress model
 │   └── deal_case_studies.ipynb       # PwC/DB M&A deal analysis
 │
+├── 📁 docs/                      # Guides and cookbooks
+├── 📄 CONTRIBUTING.md            # How to contribute
+├── 📄 ROADMAP.md                 # What we're building next
 └── 📁 output/
     ├── dashboards/               # 5 interactive Plotly HTML dashboards
     ├── excel/                    # 4 formatted Excel workbooks
@@ -223,6 +227,41 @@ This platform is architected to demonstrate capabilities directly relevant to:
 
 ---
 
+## 🤝 Contributing
+
+**Contributions are welcome!** This platform is actively evolving — we're looking for collaborators with backgrounds in quant finance, Python engineering, data visualization, and financial research.
+
+### Good places to start
+
+- Browse issues labeled [`good first issue`](../../issues?q=is%3Aopen+label%3A%22good+first+issue%22) — well-scoped tasks with clear acceptance criteria
+- Browse issues labeled [`help wanted`](../../issues?q=is%3Aopen+label%3A%22help+wanted%22) — higher-impact work the maintainer wants community help on
+- Read [CONTRIBUTING.md](CONTRIBUTING.md) for dev setup, coding style, and PR process
+- See [ROADMAP.md](ROADMAP.md) for the full v1.1 → v1.2 → v1.3 plan
+
+### We're especially looking for help with
+
+- 📐 **Quant finance:** regime-switching models, advanced event-study statistics, factor models
+- 🐍 **Python engineering:** packaging, CLI, CI/CD, type safety, testing
+- 📊 **Visualization:** Plotly dashboard polish, interactive filters, chart standardization
+- 📝 **Documentation:** worked-example notebooks, scenario cookbook, model explainers
+
+> **Comment on an issue to claim it before starting work.**
+
+---
+
+## 🗺️ Roadmap
+
+| Milestone | Focus | Status |
+|-----------|-------|--------|
+| **v1.1 — Engineering Hardening** | CLI, packaging, config, tests, CI, logging, Docker | 🔄 In Progress |
+| **v1.2 — Analytics Upgrades** | IPO event study, M&A classifier, sovereign decomposition, regime Markov | 📋 Planned |
+| **v1.3 — UX, Outputs & Docs** | Dashboard filters, PDF/Excel polish, notebooks, cookbook | 📋 Planned |
+| **v2.0 — Advanced Research Platform** | Dynamic term structure, factor models, LLM memos, web UI | 💡 Future |
+
+See [ROADMAP.md](ROADMAP.md) for full details and open issues per milestone.
+
+---
+
 ## 📜 License
 
 Distributed under the **MIT License** — see [`LICENSE`](LICENSE) for details.
@@ -231,8 +270,8 @@ Distributed under the **MIT License** — see [`LICENSE`](LICENSE) for details.
 
 <div align="center">
 
-**Created:** March 2026 &nbsp;·&nbsp; **Status:** ✅ Complete &nbsp;·&nbsp; **Python:** 3.13
+**Created:** March 2026 &nbsp;·&nbsp; **Status:** 🔄 Active Development &nbsp;·&nbsp; **Python:** 3.13
 
-*Built to institutional research standards. No API keys required.*
+*Built to institutional research standards. No API keys required. Contributions welcome.*
 
 </div>
