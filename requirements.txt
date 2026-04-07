@@ -1,11 +1,35 @@
+# Core data
 pandas>=2.0.0
 numpy>=1.24.0
 requests>=2.31.0
+
+# Web scraping
 beautifulsoup4>=4.12.0
 lxml>=4.9.0
+
+# Visualisation
 matplotlib>=3.7.0
 seaborn>=0.12.0
+plotly>=5.15.0
+
+# Analysis
 scipy>=1.10.0
+
+# Notebooks
 jupyter>=1.0.0
+
+# Reports
 openpyxl>=3.1.0
+fpdf2>=2.7.0
+
+# Live data
+yfinance>=0.2.28
+
+# Serialisation
 pyarrow>=12.0.0
+
+# Dev / testing (optional, install via: pip install -r requirements-dev.txt)
+# pytest>=7.4.0
+# black>=23.0.0
+# ruff>=0.1.0
+# mypy>=1.5.0
