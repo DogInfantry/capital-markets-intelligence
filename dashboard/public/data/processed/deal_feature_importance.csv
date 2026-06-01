@@ -1,0 +1,10 @@
+feature,correlation,p_value,direction
+log_deal_value,-0.1005,0.6734,Negative
+is_cross_border,-0.375,0.1033,Negative
+is_tech_sector,-0.1572,0.5079,Negative
+is_healthcare,0.25,0.2878,Positive
+is_energy,0.21,0.3741,Positive
+is_financial,-0.0625,0.7935,Negative
+is_take_private,0.25,0.2878,Positive
+is_cash_deal,-0.1048,0.6601,Negative
+is_mega_deal,-0.2182,0.3553,Negative
