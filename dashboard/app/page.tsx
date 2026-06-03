@@ -1093,7 +1093,7 @@ export default function Home() {
         </div>
         <a href="/sfin" style={{ fontFamily: 'DM Mono', fontSize: 11, color: '#10B981', textDecoration: 'none', padding: '4px 12px', border: '1px solid rgba(16,185,129,0.3)', borderRadius: 6, display: 'flex', alignItems: 'center', gap: 6 }}>
           🌿 India Sustainable Finance Dashboard →
-        </div>
+        </a>
         <div style={{ display: 'flex', gap: 16 }}>
           {['Yahoo Finance', 'World Bank', 'SEC EDGAR'].map(s => (
             <span key={s} style={{ fontFamily: 'DM Mono', fontSize: 10, color: '#3D5A7A' }}>{s}</span>
@@ -1103,4 +1103,5 @@ export default function Home() {
     </div>
   );
 }
+
 
