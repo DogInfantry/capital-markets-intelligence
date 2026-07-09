@@ -63,7 +63,8 @@ capital-markets-intelligence/
 │       ├── stress_test_results.csv
 │       └── case_studies.csv
 │
-├── 📁 scripts/                   # 13-script numbered pipeline
+├── 📁 scripts/                   # Numbered pipeline and output utilities
+│   ├── 00_generate_index.py
 │   ├── 01_fetch_ipo_data.py
 │   ├── 02_fetch_mna_data.py
 │   ├── 03_stress_test_model.py
@@ -87,6 +88,7 @@ capital-markets-intelligence/
 ├── 📄 CONTRIBUTING.md            # How to contribute
 ├── 📄 ROADMAP.md                 # What we're building next
 └── 📁 output/
+    ├── index.html                # Landing page linking to generated outputs
     ├── dashboards/               # 5 interactive Plotly HTML dashboards
     ├── excel/                    # 4 formatted Excel workbooks
     ├── pdf/                      # 4 professional PDF research reports
@@ -147,6 +149,9 @@ Runs **12 sovereigns × 5 macro scenarios** for 60 total stress paths: Base Case
 ### 📝 Research Memos *(text)*
 Firm-voice narrative research memos with executive summaries and key risk flags for GS, D.E. Shaw, JPM, and PwC/DB.
 
+### 🧭 Output Index *(HTML)*
+`output/index.html` is a local landing page that links to all dashboards, Excel workbooks, PDF reports, and research memos with short descriptions and last-generated timestamps.
+
 ---
 
 ## 🗂️ Data Sources
@@ -195,6 +200,9 @@ python scripts/07_generate_memos.py
 python scripts/11_generate_plotly_dashboards.py
 python scripts/12_generate_excel_reports.py
 python scripts/13_generate_pdf_reports.py
+
+# 7. Generate a local landing page for all outputs
+python scripts/00_generate_index.py
 ```
 
 ---
